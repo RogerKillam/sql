@@ -1,27 +1,23 @@
 # Microsoft SQL Server Development Sandbox
-## How-to
-### Using VSC to explore this sandbox.
 
+## drop_multiple_tables
 
-## Index
-### drop_multiple_tables
+## error_handling
 
-### error_handling
+## example_relational_database_01
 
-### example_relational_database_01
+## example_relational_database_02
 
-### example_relational_database_02
+## filegroup_map
 
-### filegroup_map
+## query_json
 
-### query_json
+## query_xml
 
-### query_xml
+## sproc_audit
 
-### sproc_audit
+## sql_challenge_questions
 
-### sql_challenge_questions
+## window_function_row_number
 
-### window_function_row_number
-
-### you_do_not_need_to_be_sysadmin
+## you_do_not_need_to_be_sysadmin
